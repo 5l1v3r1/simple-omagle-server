@@ -1,0 +1,11 @@
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\bin\Debug\netcoreapp2.0\CoreApiDenemesi.deps.json
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\bin\Debug\netcoreapp2.0\CoreApiDenemesi.runtimeconfig.json
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\bin\Debug\netcoreapp2.0\CoreApiDenemesi.runtimeconfig.dev.json
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\bin\Debug\netcoreapp2.0\CoreApiDenemesi.dll
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\bin\Debug\netcoreapp2.0\CoreApiDenemesi.pdb
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\obj\Debug\netcoreapp2.0\CoreApiDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\obj\Debug\netcoreapp2.0\CoreApiDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\obj\Debug\netcoreapp2.0\CoreApiDenemesi.AssemblyInfoInputs.cache
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\obj\Debug\netcoreapp2.0\CoreApiDenemesi.AssemblyInfo.cs
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\obj\Debug\netcoreapp2.0\CoreApiDenemesi.dll
+C:\Users\merti\Documents\Visual Studio 2017\Projects\CoreApiDenemesi\CoreApiDenemesi\obj\Debug\netcoreapp2.0\CoreApiDenemesi.pdb
